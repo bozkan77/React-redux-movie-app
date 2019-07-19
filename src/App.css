@@ -1,0 +1,7 @@
+.ui.inverted.segment, .ui.primary.inverted.segment{
+  background: white;
+  border-top: 1px solid #ccc;
+}
+.ui.divided.inverted.horizontal.list>.item, .ui.divided.inverted.list>.item, .ui.divided.inverted.list>.list{
+  color: black !important;
+}
